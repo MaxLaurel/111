@@ -17,6 +17,12 @@ class ViewController: UIViewController {
     func newChanges() {
         print("main branch 5 commit")
     }
+<<<<<<< HEAD
+    func newChanges() {
+        print("main branch 5 commit")
+    }
+=======
+>>>>>>> fixbranch
 
 }
 
