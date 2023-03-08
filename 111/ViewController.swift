@@ -11,7 +11,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+    print("1 commit")
+        print("1 commit")
     }
     func newChanges() {
         print("main branch 5 commit")
