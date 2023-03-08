@@ -11,18 +11,17 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+<<<<<<< HEAD
+print("it is ABSOLUTELY NEW MISTAKE!!!!!!!!!!!!!!!!!")
+=======
     print("1 commit")
         print("1 commit")
+        print("new comment")
+>>>>>>> 406201b1e53d343a7675e1552fb9334981fefd0d
     }
     func newChanges() {
         print("main branch 5 commit")
     }
-<<<<<<< HEAD
-    func newChanges() {
-        print("main branch 5 commit")
-    }
-=======
->>>>>>> fixbranch
 
 }
 
