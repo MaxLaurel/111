@@ -13,7 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
     print("1 commit")
         print("1 commit")
-        print("lets make some mistake!!!!!!!!!!!!!!!!")
+        print("new comment")
     }
     func newChanges() {
         print("main branch 5 commit")
