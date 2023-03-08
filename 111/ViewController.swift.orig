@@ -13,16 +13,15 @@ class ViewController: UIViewController {
         super.viewDidLoad()
     print("1 commit")
         print("1 commit")
-    }
-    func newChanges() {
-        print("main branch 5 commit")
-    }
 <<<<<<< HEAD
+        print("new comment")
+=======
+        print("lets make some mistake!!!!!!!!!!!!!!!!")
+>>>>>>> 1e951d83989e373f560976451d807d2e4b7d56c8
+    }
     func newChanges() {
         print("main branch 5 commit")
     }
-=======
->>>>>>> fixbranch
 
 }
 
